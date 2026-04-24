@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-portland-or.netlify.app/sitemap.xml
